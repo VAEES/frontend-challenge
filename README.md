@@ -9,7 +9,7 @@ Em seguida, enviaremos o feedback e as instruções dos próximos passos!
 Caso tenha alguma dúvida, nós estamos disponíveis no email *nathan.botelho@b2rise.consulting*.
 Bom desafio!
 
-> ⚠️ **É importante que o seu repo esteja público, caso contrário não iremos conseguir avaliar sua resposta. Se você preferir, pode criar um repositório privado com acesso para o usuário** `notelho`.
+> ⚠️ **É importante que o seu repo seja público, caso contrário não iremos conseguir avaliar sua resposta. Se você preferir, pode criar um repositório privado com acesso para o usuário** `notelho`.
 
 # 🧠 Contexto
 
@@ -27,9 +27,7 @@ Também seria muito legal se você também implementasse:
 ## 📋 Instruções
 
 Chegou a hora de colocar a mão na massa!
-
 - Siga [esse protótipo](https://www.figma.com/proto/SQHTonDPYDbpkxncjDfTbK/Frontend-challange)
-
 - Utilize HTML, CSS e javascript
 - Utilize o framework que você tem mais familiaridade (Angular, React, Vue, etc)
 - Local storage para salvar o histórico de pedidos
@@ -39,7 +37,6 @@ Chegou a hora de colocar a mão na massa!
 
 ## ✔️ Critérios de Avaliação
 Além dos requisitos levantados acima, iremos olhar para os seguintes critérios durante a correção do desafio:
-
 - Preocupação com UI (layout da tela, grid, padronização nos botões, etc)
 - Preocupação com UX (feedback ao usuário, tratamentos de erro, navegação coerente, etc)
 - Preocupação com código (organização dos arquivos, código limpo, GOF, SOLID, etc)
@@ -61,4 +58,4 @@ em deixar as funcionalidades funcionando e o código bem bacana! 😋
 
 ---
 
-_O desafio acima foi cuidadosamente construído para propósitos de avaliação apenas. Já possuimos uma funcionalidade similar na nossa plataforma._
+_O desafio acima foi cuidadosamente construído para propósitos de avaliação apenas. Já possuímos uma funcionalidade similar na nossa plataforma._
