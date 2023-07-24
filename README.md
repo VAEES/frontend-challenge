@@ -37,9 +37,8 @@ Chegou a hora de colocar a mão na massa!
 
 ## ✔️ Critérios de Avaliação
 Além dos requisitos levantados acima, iremos olhar para os seguintes critérios durante a correção do desafio:
-- Preocupação com UI
-- Preocupação com UX
-- Preocupação com código
+- UI/UX
+- Codificação
 - Componentização
 - Padrão de commits [Conventional](https://www.conventionalcommits.org/en/v1.0.0/)
 
