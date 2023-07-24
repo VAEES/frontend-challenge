@@ -28,7 +28,7 @@ Caso você queira ir além:
 
 Chegou a hora de colocar a mão na massa!
 - Siga [esse protótipo](https://www.figma.com/proto/SQHTonDPYDbpkxncjDfTbK/Frontend-challange)
-- Utilize HTML, CSS e javascript
+- Utilize HTML, CSS e Typescript
 - Utilize o framework Angular (>= v7)
 - Local storage para salvar o histórico de pedidos
 - Por favor, inclua no README as instruções de instalação do projeto
