@@ -37,15 +37,17 @@ Chegou a hora de colocar a mão na massa!
 
 ## ✔️ Critérios de Avaliação
 Além dos requisitos levantados acima, iremos olhar para os seguintes critérios durante a correção do desafio:
-- Preocupação com UI (layout da tela, grid, padronização nos botões, etc)
-- Preocupação com UX (feedback ao usuário, tratamentos de erro, navegação coerente, etc)
-- Preocupação com código (organização dos arquivos, código limpo, GOF, SOLID, etc)
+- Preocupação com UI
+- Preocupação com UX
+- Preocupação com código
 - Componentização
 - Padrão de commits [Conventional](https://www.conventionalcommits.org/en/v1.0.0/)
 
-## 😎 Seria legal utilizar
+## 😎 Seria legal se você utilizasse
 - Sass, Less
 - Boostrap, Bulma, Materialize
+- Arquitetura limpa
+- Princípios de clean code
 - Testes unitários
 - Testes e2e
 ---
