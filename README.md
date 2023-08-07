@@ -30,7 +30,7 @@ Chegou a hora de colocar a mão na massa!
 - Siga [esse protótipo](https://www.figma.com/proto/SQHTonDPYDbpkxncjDfTbK/Frontend-challange)
 - Utilize HTML, CSS e Typescript
 - Utilize o framework Angular (>= v7)
-- Local storage para salvar o histórico de pedidos
+- Local storage para salvar o histórico de pedidos e itens do carrinho
 - Por favor, inclua no README as instruções de instalação do projeto
 - Sinta-se livre para incluir quaisquer observações
 - Consuma os dados dos produtos que estão no arquivo **api/products.json** (você pode criar um [JSON server](https://www.npmjs.com/package/json-server) ou mockar no código)
