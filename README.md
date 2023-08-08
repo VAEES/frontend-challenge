@@ -9,7 +9,7 @@ Em seguida, enviaremos o feedback e as instruções dos próximos passos!
 Caso tenha alguma dúvida, nós estamos disponíveis no email *recrutamento@b2rise.consulting*.
 Bom desafio!
 
-> ⚠️ **É importante que o seu repo seja público, caso contrário não iremos conseguir avaliar sua resposta. Se você preferir, pode criar um repositório privado com acesso para os usuários** `mlucascardoso` e `notelho`.
+> ⚠️ **É importante que o seu repo seja público, caso contrário não iremos conseguir avaliar sua resposta. Se você preferir, pode criar um repositório privado com acesso para os usuários** `mlucascardoso`.
 
 # 🧠 Contexto
 
@@ -29,7 +29,7 @@ Caso você queira ir além:
 Chegou a hora de colocar a mão na massa!
 - Siga [esse protótipo](https://www.figma.com/proto/SQHTonDPYDbpkxncjDfTbK/Frontend-challange)
 - Utilize HTML, CSS e Typescript
-- Utilize o framework Angular (>= v7)
+- Utilize o framework de sua preferência.
 - Local storage para salvar o histórico de pedidos e itens do carrinho
 - Por favor, inclua no README as instruções de instalação do projeto
 - Sinta-se livre para incluir quaisquer observações
